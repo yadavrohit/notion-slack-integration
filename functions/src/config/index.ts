@@ -1,0 +1,6 @@
+export const Configuration= {
+
+    NOTION_TOKEN: 'secret_ou8Oj6b84Nv4IXbz6xoavJesTIrXNe5Tgi2PZkZDUAG',
+    SLACK_TOKEN: 'xoxb-1186322293527-2345925333857-u4BO1UpcRBPKMcf2OiYJ7g3T',
+    SLACK_SIGNING_SECRET: 'ebe4fb9d0810825d3cf8aeebf2d8e67b',
+};
